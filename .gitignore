@@ -1,0 +1,15 @@
+# Ignore models
+models/
+*.h5
+*.pkl
+
+# Ignore large data
+data/
+*.csv
+*.json
+
+# Ignore results
+results/
+*.pdf
+*.png
+
